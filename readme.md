@@ -1,2 +1,2 @@
-﻿8.7. Tablice
+﻿8.7. Tablice.
 Zadanie: Łączymy tablice!
